@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "equip_4_icon",
+    "texture": "489d7891-47e6-48de-807e-dc5e856ca61b",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      74,
+      76
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      75,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

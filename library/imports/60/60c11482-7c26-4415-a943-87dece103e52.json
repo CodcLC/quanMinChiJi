@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pb_gem",
+    "texture": "53df49dc-41b3-42f0-b0d2-c99bec20e3d0",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      31,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      31,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

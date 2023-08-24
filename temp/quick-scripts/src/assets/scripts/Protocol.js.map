@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\scripts\\Protocol.js"],"names":["cc","Class","statics","Initialize"],"mappings":";;;;;;AAAAA,EAAE,CAACC,KAAH,CAAS;AACLC,EAAAA,OAAO,EAAE;AAEL;AACAC,IAAAA,UAHK,wBAGQ,CAGZ;AANI;AADJ,CAAT","sourceRoot":"/","sourcesContent":["cc.Class({\r\n    statics: {\r\n\r\n        // 初始化需要监听的协议\r\n        Initialize() {\r\n\r\n\r\n        },\r\n\r\n    }\r\n});"]}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "main_btn_solo",
+    "texture": "09c8a6e7-2e3d-4a6d-8783-9a5cc849c531",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      420,
+      159
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      420,
+      159
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

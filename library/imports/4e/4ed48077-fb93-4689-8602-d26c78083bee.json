@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_weaponDesc",
+    "texture": "a3307380-5667-4bb7-9212-a542bccf9ff4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      964,
+      442
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      964,
+      442
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

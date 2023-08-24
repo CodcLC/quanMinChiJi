@@ -1,0 +1,284 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "comm.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "count_down_1": {
+      "__uuid__": "26eb2faa-25a6-4e8d-9825-2debced12b2d"
+    },
+    "count_down_2": {
+      "__uuid__": "93b352b6-cd7b-47f4-8022-c1b3472d122f"
+    },
+    "count_down_3": {
+      "__uuid__": "8880a07d-b0be-46a8-a55b-3632f613dafe"
+    },
+    "count_down_4": {
+      "__uuid__": "9a308989-33f7-494e-b7e0-43d446d096b1"
+    },
+    "count_down_5": {
+      "__uuid__": "6d02fff9-c5ec-49a7-b8e1-8f27cf57c43f"
+    },
+    "flash": {
+      "__uuid__": "72de8a5c-d586-4b7c-9ba3-dec54ea8045c"
+    },
+    "gem_1": {
+      "__uuid__": "5f0906ef-5c0c-4e2e-b33e-63a0acb017ab"
+    },
+    "gem_2": {
+      "__uuid__": "17a740db-f069-466c-be34-88dd918ad385"
+    },
+    "gem_3": {
+      "__uuid__": "455374dc-dd41-47ca-bf55-d30e4c70f2b8"
+    },
+    "gem_4": {
+      "__uuid__": "2e9e0fd6-3f25-49be-9130-8f243da7d35f"
+    },
+    "gem_5": {
+      "__uuid__": "17ebc4db-8c32-4ea2-ab45-bcae6d9f67a3"
+    },
+    "gold_1": {
+      "__uuid__": "6987b8e1-3f6f-4516-bd36-f341ff322073"
+    },
+    "gold_2": {
+      "__uuid__": "a8ad95c8-999f-475b-9eec-b68325d056e2"
+    },
+    "gold_3": {
+      "__uuid__": "1fbd8cd7-6ad1-4f86-b230-b5e274b7e091"
+    },
+    "gold_4": {
+      "__uuid__": "8b62e4f0-a5c3-44b0-9995-f3f35004cd7d"
+    },
+    "gold_5": {
+      "__uuid__": "b3bfc2c9-7278-44d9-98f4-9650a11915d3"
+    },
+    "hp_down": {
+      "__uuid__": "8d972234-38e8-4f47-bf18-6b845848b815"
+    },
+    "hp_up": {
+      "__uuid__": "5e48fdf3-5ea4-4e96-83b7-2707d1049de1"
+    },
+    "hp_up_01": {
+      "__uuid__": "34170e1c-3bb3-483a-b512-c3bf54a8f649"
+    },
+    "img_hongzha": {
+      "__uuid__": "fd16d72b-1583-42ce-9678-8be66cf8583d"
+    },
+    "img_w": {
+      "__uuid__": "d8f31651-4a58-44d4-bc26-853fd4c3bfbd"
+    },
+    "item_box": {
+      "__uuid__": "198bcfea-f21a-4c5b-8ea9-5d086ad9b879"
+    },
+    "item_equip_1_invalid": {
+      "__uuid__": "847f3e21-f32c-4e64-82de-771f16d9f091"
+    },
+    "item_equip_1_valid": {
+      "__uuid__": "1b3d448d-22fe-4fbb-b1dc-358416a232b2"
+    },
+    "item_equip_2_invalid": {
+      "__uuid__": "7cf3c219-3a39-4998-98cd-657bc6ee0a5e"
+    },
+    "item_equip_2_valid": {
+      "__uuid__": "775394b6-86d2-4477-a59b-7152bc6b710a"
+    },
+    "item_equip_3_invalid": {
+      "__uuid__": "daeceed2-faa8-4f2f-ab30-9574d3d2dc4f"
+    },
+    "item_equip_3_valid": {
+      "__uuid__": "66e42826-2289-4b8f-8280-3ff0ad2614fa"
+    },
+    "item_equip_4_invalid": {
+      "__uuid__": "ba819bb7-69e0-4c19-8f29-c5c46bde378d"
+    },
+    "item_equip_4_valid": {
+      "__uuid__": "7468a6da-5b0d-41ee-bdb1-8eea6235fd7a"
+    },
+    "item_exp": {
+      "__uuid__": "84c575e6-839d-4935-a1c5-9a8be71adce4"
+    },
+    "item_weapon_1002": {
+      "__uuid__": "167d3d45-e8da-4c5b-ba45-5707e470679c"
+    },
+    "item_weapon_1003": {
+      "__uuid__": "b69b5eb1-6b91-4986-a42f-dd7ecade3cee"
+    },
+    "item_weapon_1005": {
+      "__uuid__": "2f8b91d6-ddb3-4a59-a916-c82252bffef4"
+    },
+    "item_weapon_1102": {
+      "__uuid__": "525b89a8-ea89-4da1-b5e8-13fbbf8d4992"
+    },
+    "item_weapon_1103": {
+      "__uuid__": "ba45dbf6-7545-4f7d-a09a-92c89d7f06c2"
+    },
+    "item_weapon_1105": {
+      "__uuid__": "d7873346-23ca-4455-9505-79931ba2809a"
+    },
+    "joystick_bg_left": {
+      "__uuid__": "d80ea00b-95bf-4459-b5c5-2fda39400bac"
+    },
+    "joystick_bg_left_sign": {
+      "__uuid__": "7d45d277-f95f-4824-a137-34e4adee9c2b"
+    },
+    "joystick_left_btn": {
+      "__uuid__": "db87ebac-cb85-48e0-83da-676b70eb1c4d"
+    },
+    "level_bg_1": {
+      "__uuid__": "979f5671-b693-460a-b455-ab237c64de16"
+    },
+    "level_bg_2": {
+      "__uuid__": "64d6b31e-9a50-4e63-9a55-f34e39f69a20"
+    },
+    "level_bg_3": {
+      "__uuid__": "37ec9b7c-e5e4-45e9-baa9-70bb34fc5bb0"
+    },
+    "level_bg_4": {
+      "__uuid__": "99edd855-5fe4-4695-be8b-effcb6e49b57"
+    },
+    "level_bg_5": {
+      "__uuid__": "2ab84f1e-5fb9-4672-9cec-a2ea5040f11e"
+    },
+    "level_star_1_1": {
+      "__uuid__": "098c6767-e1aa-41fc-9f99-b5891e577739"
+    },
+    "level_star_1_2": {
+      "__uuid__": "b1fb5d79-7172-4245-a0b6-594f1eb2ac1c"
+    },
+    "level_star_1_3": {
+      "__uuid__": "82015515-3daa-4d8d-aaf3-02fd3e02dc19"
+    },
+    "level_star_1_4": {
+      "__uuid__": "13858b6a-1131-4089-bb74-b6ffa407e905"
+    },
+    "level_star_1_5": {
+      "__uuid__": "0750e5c2-4c78-4486-81da-f06bb2f635b4"
+    },
+    "level_star_2_1": {
+      "__uuid__": "107fc3b1-2911-43e9-a149-d930ae03f535"
+    },
+    "level_star_2_2": {
+      "__uuid__": "41b644fc-7e09-4ea8-a05f-201f664d67cf"
+    },
+    "level_star_2_3": {
+      "__uuid__": "bf0e8132-4335-454c-bd1c-916beb7d5f48"
+    },
+    "level_star_2_4": {
+      "__uuid__": "e2281a42-b41c-4fd5-8e9b-be8c244dc35c"
+    },
+    "level_star_2_5": {
+      "__uuid__": "ed1d51ff-5d04-4718-93da-41275d4235c7"
+    },
+    "level_star_3_1": {
+      "__uuid__": "f4c57b74-e72d-46b8-84c5-980e9c9f0869"
+    },
+    "level_star_3_2": {
+      "__uuid__": "e9899a80-528b-49f3-8d6a-fbeec2899a8e"
+    },
+    "level_star_3_3": {
+      "__uuid__": "05873ec6-001b-47ba-b657-5941eed2a2de"
+    },
+    "level_star_3_4": {
+      "__uuid__": "22326662-0200-44eb-b64a-9b9597f13b20"
+    },
+    "level_star_3_5": {
+      "__uuid__": "b891d06f-7a6d-45e6-9f9b-78d5d5e87846"
+    },
+    "level_star_4_1": {
+      "__uuid__": "c050cf00-3e9b-449a-b0dd-97ddd9427b34"
+    },
+    "level_star_4_2": {
+      "__uuid__": "b0e721eb-df8b-4ff8-bd66-65e1812b66d3"
+    },
+    "level_star_4_3": {
+      "__uuid__": "bd7c96fe-101f-46c2-a9bc-add08e710c03"
+    },
+    "level_star_4_4": {
+      "__uuid__": "8ba29b3b-2768-4443-a00b-51a41afc4bf8"
+    },
+    "level_star_4_5": {
+      "__uuid__": "99b481b6-d1f0-4027-b299-6eb28bc62af7"
+    },
+    "level_star_5_1": {
+      "__uuid__": "d87eb269-f19d-45c8-a651-485ec79e670c"
+    },
+    "level_star_5_2": {
+      "__uuid__": "53827b75-809e-4be3-9f0b-2380de35ed58"
+    },
+    "level_star_5_3": {
+      "__uuid__": "292d71c2-81aa-44e5-b516-405dba93d1ac"
+    },
+    "level_star_5_4": {
+      "__uuid__": "df2ecc62-adf1-4c7c-bef8-d5ad5c62c258"
+    },
+    "level_star_5_5": {
+      "__uuid__": "0b4ff8e1-00a6-466d-a50c-8c07cac97b46"
+    },
+    "little_map": {
+      "__uuid__": "d4a72d43-13d2-42bb-808a-2b639f405f88"
+    },
+    "map_tips_02": {
+      "__uuid__": "514e5e28-c6fe-48a1-9bc7-6a97535b38bc"
+    },
+    "open_bg": {
+      "__uuid__": "d8d463a6-5031-4ea4-88a4-a9054dc37d9f"
+    },
+    "open_timer": {
+      "__uuid__": "dd47f275-ebab-4bf6-b836-c9e49cb03ab4"
+    },
+    "safe_2": {
+      "__uuid__": "af3bba10-c183-4eb6-9c99-810c0be46496"
+    },
+    "treat_timer": {
+      "__uuid__": "e519909d-aeb2-4bc2-8a91-3347fe98ffc4"
+    },
+    "ui_count_down_1": {
+      "__uuid__": "a4e5b6e2-b434-4f22-b973-d70ca8daca20"
+    },
+    "ui_gold_w_01": {
+      "__uuid__": "6db487d7-1ca2-4700-b00a-e93df07965fb"
+    },
+    "ui_gold_w_02": {
+      "__uuid__": "94fca9bd-6b29-4782-bfad-7ac40207b232"
+    },
+    "ui_gold_w_03": {
+      "__uuid__": "315a8483-aebc-493b-8073-154f0a3daa81"
+    },
+    "ui_gold_w_04": {
+      "__uuid__": "1eb6452f-3cb9-4569-9c36-97fb6f27c666"
+    },
+    "ui_gold_w_05": {
+      "__uuid__": "3837c3e8-26b2-4706-b858-e91cee66c292"
+    },
+    "ui_tips_arrow_2": {
+      "__uuid__": "1cadae95-9682-4758-a79f-01fd83b50fb7"
+    },
+    "ui_tips_safe": {
+      "__uuid__": "e0c4a349-36c8-41f2-88fc-9d67c686f602"
+    },
+    "ui_weapon_1002": {
+      "__uuid__": "8ff32128-f2ba-4cb3-bbdc-7cd7a136157f"
+    },
+    "ui_weapon_1003": {
+      "__uuid__": "28cef1aa-ee4d-4498-88d5-959c871f3fa4"
+    },
+    "ui_weapon_1005": {
+      "__uuid__": "9237fe24-bf25-4bc2-a70c-19f462f6ce40"
+    },
+    "ui_weapon_1102": {
+      "__uuid__": "214b4c19-b6c7-4183-b79d-988087889ed8"
+    },
+    "ui_weapon_1103": {
+      "__uuid__": "c94cbaf3-b79f-4aca-aac4-398691acbc82"
+    },
+    "ui_weapon_1105": {
+      "__uuid__": "2d512d3d-10fd-407b-8fca-ef624beebad3"
+    },
+    "weapon_gun": {
+      "__uuid__": "2f5f7f67-e56e-4d26-8a94-f123e14b992e"
+    },
+    "weapon_sign": {
+      "__uuid__": "e9ee20bc-3a3e-4e54-90a4-8bbcf34d72f1"
+    }
+  }
+}

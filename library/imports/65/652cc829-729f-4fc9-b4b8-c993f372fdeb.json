@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_move",
+    "texture": "885fb804-4ebc-422b-9748-7c71860e5e32",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

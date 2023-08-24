@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "waitingScene_2",
+    "texture": "f7c98a9a-a301-4d27-b712-f8032030a6e1",
+    "atlas": "",
+    "rect": [
+      12,
+      1,
+      517,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      541,
+      83
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

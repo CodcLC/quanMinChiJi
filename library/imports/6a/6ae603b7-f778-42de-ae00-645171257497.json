@@ -1,0 +1,137 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "floor_up.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "earth_01": {
+      "__uuid__": "2d846318-b0e5-4281-b17b-405ee4185b28"
+    },
+    "floorup_01_004": {
+      "__uuid__": "5b3b2b85-95b4-44d3-badc-fffb1db07b17"
+    },
+    "floorup_01_005": {
+      "__uuid__": "5126a717-f149-40e5-93e3-4b40494f665f"
+    },
+    "floorup_01_006": {
+      "__uuid__": "cb9b419e-f620-4da0-b5e7-eade122662a1"
+    },
+    "floorup_01_007": {
+      "__uuid__": "eb6415f2-912c-4e99-bb7e-89b2caed1f17"
+    },
+    "floorup_02_001": {
+      "__uuid__": "9a39c04a-9816-4d20-ae30-5bd35188ac05"
+    },
+    "floorup_road_01": {
+      "__uuid__": "c9649a62-f0fb-4a5e-859c-b36e48d194b4"
+    },
+    "floorup_road_02": {
+      "__uuid__": "4fd34e03-7b76-4c57-855b-50e3af55169d"
+    },
+    "floorup_road_03": {
+      "__uuid__": "01528585-b798-4141-9173-c3243e69e7bd"
+    },
+    "floorup_road_04": {
+      "__uuid__": "2f743e7b-a99b-4bd7-bb5e-909baa12de9a"
+    },
+    "grass_000": {
+      "__uuid__": "c0bfae70-05e3-4e43-87f9-1525f55d14fa"
+    },
+    "grass_001": {
+      "__uuid__": "bd67250c-2373-4888-8c91-4d914f4e6c63"
+    },
+    "grass_002": {
+      "__uuid__": "b84d1363-55c6-4b20-bc63-79cbc179b990"
+    },
+    "grass_003": {
+      "__uuid__": "5b358778-d500-464d-b437-81ea4f327e84"
+    },
+    "grass_004": {
+      "__uuid__": "a03289f3-10b1-4507-92ed-8d5dafc59196"
+    },
+    "grass_005": {
+      "__uuid__": "d7789443-1350-41cc-a2e1-65f63aeaaa2c"
+    },
+    "grass_006": {
+      "__uuid__": "ebd3814a-20bd-44aa-9b68-1cd1eb7b6727"
+    },
+    "grass_007": {
+      "__uuid__": "1781ff56-bcb2-4d6d-8e4e-e9acc7a80baf"
+    },
+    "grass_008": {
+      "__uuid__": "d65e330b-0d0b-45db-8802-77a300e6b4fe"
+    },
+    "grass_009": {
+      "__uuid__": "b05cc693-5448-447f-b4ba-c1ee66ad7cbc"
+    },
+    "grass_010": {
+      "__uuid__": "1e0bd978-c81b-40a4-b809-4e983df746b1"
+    },
+    "hole_01": {
+      "__uuid__": "04ba41af-1aa8-4bfa-a787-5f2923485fdc"
+    },
+    "hole_02png": {
+      "__uuid__": "487f9e83-f386-4a74-bbcb-c34dacef33bd"
+    },
+    "road_lw_003": {
+      "__uuid__": "6d651d23-6468-466d-96bc-5621a63b661d"
+    },
+    "road_lw_004": {
+      "__uuid__": "6efdf3d8-d56c-4105-b345-12906073fe15"
+    },
+    "road_lw_005": {
+      "__uuid__": "adc6ea00-a759-466c-bf71-b1944b015bed"
+    },
+    "road_lw_006": {
+      "__uuid__": "9b2ac452-e3cd-417c-b890-80461c16806d"
+    },
+    "s03_01": {
+      "__uuid__": "0eed761d-a5b9-429b-aeb2-93454d6f5195"
+    },
+    "s03_02": {
+      "__uuid__": "a881e8ac-05c2-405f-9e14-c98c188334ab"
+    },
+    "s03_03": {
+      "__uuid__": "cb2751f9-f89d-4e47-b6e7-8baf74b81d27"
+    },
+    "sand_01": {
+      "__uuid__": "e0c069f2-b604-4e85-8957-2e0b6e399b8c"
+    },
+    "sand_02": {
+      "__uuid__": "a4d3c297-70ac-4737-81f7-05f2b3b0ab72"
+    },
+    "wall_01_yinying_001": {
+      "__uuid__": "8495837f-79ab-4446-b40b-ad9772763cf8"
+    },
+    "wall_01_yinying_002": {
+      "__uuid__": "3f0ec560-75ba-4340-a3b4-657b9cdb3470"
+    },
+    "wall_01_yinying_003": {
+      "__uuid__": "82936ec7-3350-4ce8-8c2f-3a7763e8fbd5"
+    },
+    "wall_01_yinying_004": {
+      "__uuid__": "0fa12db0-a5df-496f-90ea-9b02636e74be"
+    },
+    "wall_01_yinying_005": {
+      "__uuid__": "342839eb-8aef-4cdc-96ed-73e81a83c828"
+    },
+    "wall_01_yinying_005_01": {
+      "__uuid__": "37cc0f36-3b85-401d-a4f6-5781f3ba2743"
+    },
+    "wall_01_yinying_005_02": {
+      "__uuid__": "c6d9d381-af9f-4c0d-8d26-c73d0fe252a2"
+    },
+    "wall_01_yinying_006": {
+      "__uuid__": "bbef7fcd-2e96-402a-859e-9ba736570f59"
+    },
+    "wall_01_yinying_007": {
+      "__uuid__": "568feadd-c7ea-4b2e-bf42-47c340def602"
+    },
+    "wall_01_yinying_008": {
+      "__uuid__": "187d57c5-82df-4ab4-8eae-6b51563c885c"
+    },
+    "water": {
+      "__uuid__": "8fcf086e-3d0f-46c8-ae11-e59b87a09e75"
+    }
+  }
+}

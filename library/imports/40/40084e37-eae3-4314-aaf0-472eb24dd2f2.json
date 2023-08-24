@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "end_chicken",
+    "texture": "7107dacf-aed7-4cad-b70b-4f06953cc522",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      571,
+      224
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      571,
+      224
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

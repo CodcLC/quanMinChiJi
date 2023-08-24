@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "item_equip_4_valid",
+    "texture": "3beb1a98-ca72-445b-8d6a-6d3b35409a6f",
+    "atlas": "dca618b1-85f1-429f-baeb-4bd1849b5830",
+    "rect": [
+      422,
+      410,
+      60,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

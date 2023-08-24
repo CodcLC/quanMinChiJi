@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pickup_tip",
+    "texture": "1dfb5675-fdc1-4be2-befc-09238a20d92a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      196,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      196,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

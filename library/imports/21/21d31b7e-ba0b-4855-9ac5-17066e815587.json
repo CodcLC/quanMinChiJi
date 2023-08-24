@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_pickup",
+    "texture": "af38e180-877d-4219-af98-7cc7ae306856",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      51,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

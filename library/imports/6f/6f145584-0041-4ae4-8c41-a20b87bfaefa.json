@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fujian_023",
+    "texture": "341996ac-ca0f-4672-8873-6076607e9ee8",
+    "atlas": "3148b89c-25ff-4879-b609-1ce7a00f59a6",
+    "rect": [
+      640,
+      192,
+      128,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

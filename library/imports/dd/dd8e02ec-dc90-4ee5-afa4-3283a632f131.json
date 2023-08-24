@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_btn_close",
+    "texture": "97e039ff-db88-4ea5-950b-05abb24d6514",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      50,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      48
+    ],
+    "capInsets": [
+      15,
+      11,
+      15,
+      11
+    ]
+  }
+}

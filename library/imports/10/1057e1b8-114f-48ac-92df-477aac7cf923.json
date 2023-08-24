@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "joystick_right_btn",
+    "texture": "0b0cc484-747d-4c41-9e88-4544343d5e70",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      169,
+      179
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      169,
+      179
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gas",
+    "texture": "923f1f20-e3d0-4b1b-a202-fcc62a823e0a",
+    "atlas": "d5b3ef6b-e4fa-4c84-a7d8-a0a414667557",
+    "rect": [
+      248,
+      468,
+      50,
+      39
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      68,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

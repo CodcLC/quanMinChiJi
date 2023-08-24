@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scale9_bord",
+    "texture": "c494d615-df0c-4806-86fe-0a61fbb4e5ef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      68
+    ],
+    "capInsets": [
+      22,
+      22,
+      22,
+      22
+    ]
+  }
+}
